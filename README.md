@@ -1,4 +1,5 @@
 Curve Calculator App
+
 The Curve Calculator App is a Python application designed to efficiently process and analyze data stored in CSV files. This user-friendly tool allows users to input the file path, specify the desired column for curve calculation, and automatically generates the curve while excluding zero values.
 
 Features
