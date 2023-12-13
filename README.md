@@ -13,9 +13,7 @@ Installation
 Clone the repository to your local machine:
 
 git clone https://github.com/your-username/curve-calculator-app.git
-Navigate to the project directory:
 
 The Curve Calculator App requires Python and uses the following external libraries:
-
-csv: for reading and processing CSV files.
-matplotlib: for generating visualizations of the calculated curve.
+* csv: for reading and processing CSV files.
+* matplotlib: for generating visualizations of the calculated curve.
